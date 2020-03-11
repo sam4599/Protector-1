@@ -1,0 +1,131 @@
+.one {
+    color: black;
+    padding: 5px;
+    background: #f3faff;
+    margin: 0 auto;
+    width: 80%;
+    filter: alpha(Opacity=70);
+    padding: 10px;
+    font-size: 25px;
+    text-indent: 1.5em;
+
+}
+.two {
+    color: black;
+    padding: 5px;
+    background: #f3faff;
+    margin: 0 auto;
+    width: 80%;
+    filter: alpha(Opacity=70);
+    padding: 10px;
+    font-size: 25px;
+    text-indent: 1.5em;
+
+}
+    
+.three {
+    color: black;
+    padding: 5px;
+    background: #f3faff;
+    margin: 0 auto;
+    width: 80%;
+    filter: alpha(Opacity=70);
+    padding: 10px;
+    font-size: 25px;
+    text-indent: 1.5em;
+
+}
+.four {
+    color: black;
+    padding: 5px;
+    background: #f3faff;
+    margin: 0 auto;
+    width: 80%;
+    filter: alpha(Opacity=70);
+    padding: 10px;
+    font-size: 25px;
+    text-indent: 1.5em;
+
+}
+.un {
+    font-size: 50px;
+    text-decoration: none;
+}
+    
+.klog {
+    font-size: 25px;
+    background-color: #fcf8e3;
+    border-radius: 5px;
+    border-color: green;
+}
+.kparol {
+    font-size: 25px;
+    background-color: #fcf8e3;
+    border-radius: 5px;
+    border-color: green;   
+}
+
+.knop {
+    font-size: 25px;
+    border-color: green;
+    background-color: white;
+}
+
+.gr {
+    color: black;
+    padding: 5px;
+    background: #f3faff;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 80%;
+    filter: alpha(Opacity=70);
+    padding: 10px;
+    font-size: 25px;
+    text-indent: 1.5em;
+    
+    
+    
+}
+    
+body {
+    background: white;
+    margin: 0px;
+    
+}
+    
+.parol {
+    
+}
+.rm {
+    background: url(img/reka.jpg);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -16px;
+    background-size: auto 100%;
+}
+.dn {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+    padding: 20px;
+    font: bold 3em Arial, sans-serif;
+    color: #f3faff;
+    text-shadow: black 1px 1px 0, #cad5e2 2px 2px 0,
+    black 3px 3px 0, #cad5e2 4px 4px 0,
+    black 5px 5px 0;0;
+}
+
+.cen {
+    text-align: center;
+}
+
+.gif { 
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 1350px;
+}
+
+.rad { 
+ margin-bottom: 10px;   
+}
